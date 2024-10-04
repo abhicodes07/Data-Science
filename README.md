@@ -15,6 +15,7 @@ Feel free to explore the repository and reach out in case of any issues.
 <samp>
   **NumPy**, short for Numerical Python, is the fundamental module required for high-level computation and data-analysis.
   Here, You will find all the necessary and important topic wise notes on understanding Numpy from beginner to advance.
+  <br>
 </samp>
 
 | Topic                 | Description                                                                     | Link |
