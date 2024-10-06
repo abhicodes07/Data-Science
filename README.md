@@ -10,6 +10,14 @@ Feel free to explore the repository and reach out in case of any issues.
 
 ## ☘️ Contents
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flask,py,sklearn,pytorch&theme=dark" />
+  </a>
+</p>
+
+
 #### NumPy
 
 <samp>
