@@ -18,7 +18,7 @@ Feel free to explore the repository and reach out in case of any issues.
 </p>
 
 
-#### NumPy
+#### 💤 NumPy
 
 <samp>
 
@@ -29,11 +29,12 @@ Feel free to explore the repository and reach out in case of any issues.
   </br>
 </samp>
 
-| Topic                       | Description                                                                     | Link |
-|-----------------------------|---------------------------------------------------------------------------------|------|
-| **Numpy Basics**            | <samp> An introduction of `ndarrys` and thier vectorized computation </samp>    | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/01_Numpy_Basics.ipynb) |
-| **Data Types**              | <samp> Understanding NumPy data types or `dtype`. </samp>                       | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/02_Data_Types_for_ndarrays.ipynb) |
-| **Indexing and  Slicing**   | <samp> Selecting a subset of a data or individual elemenst using indexing and slicing. </samp> | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/04_Basic_Indexing_and_slicing.ipynb) |
+| Topic                       | Description                                                                                         | Link |
+|-----------------------------|-----------------------------------------------------------------------------------------------------|------|
+| **Numpy Basics**            | <samp> An introduction of `ndarrys` and thier vectorized computation </samp>                        | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/01_Numpy_Basics.ipynb) |
+| **Data Types**              | <samp> Understanding NumPy data types or `dtype`. </samp>                                           | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/02_Data_Types_for_ndarrays.ipynb) |
+| **Indexing and  Slicing**   | <samp> Selecting a subset of a data or individual elemenst using indexing and slicing. </samp>      | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/04_Basic_Indexing_and_slicing.ipynb) |
+| **Boolean Indexing**        | <samp> Accessing elements of an array using another array as index. </samp>                         | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/05_Boolean_Indexing.ipynb) |
 
 
 ---
