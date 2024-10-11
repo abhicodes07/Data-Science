@@ -35,6 +35,7 @@ Feel free to explore the repository and reach out in case of any issues.
 | **Data Types**              | <samp> Understanding NumPy data types or `dtype`. </samp>                                           | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/02_Data_Types_for_ndarrays.ipynb) |
 | **Indexing and  Slicing**   | <samp> Selecting a subset of a data or individual elemenst using indexing and slicing. </samp>      | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/04_Basic_Indexing_and_slicing.ipynb) |
 | **Boolean Indexing**        | <samp> Accessing elements of an array using another array as index. </samp>                         | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/05_Boolean_Indexing.ipynb) |
+| **Fancy Indexing**          | <samp> Accessing elements with desired order using Indexing with ndarrays of integers </samp>       | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/06_Fancy_Indexing.ipynb) |
 
 
 ---
