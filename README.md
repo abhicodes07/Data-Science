@@ -31,11 +31,12 @@ Feel free to explore the repository and reach out in case of any issues.
 
 | Topic                       | Description                                                                                         | Link |
 |-----------------------------|-----------------------------------------------------------------------------------------------------|------|
-| **Numpy Basics**            | <samp> An introduction of `ndarrys` and thier vectorized computation </samp>                        | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/01_Numpy_Basics.ipynb) |
-| **Data Types**              | <samp> Understanding NumPy data types or `dtype`. </samp>                                           | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/02_Data_Types_for_ndarrays.ipynb) |
-| **Indexing and  Slicing**   | <samp> Selecting a subset of a data or individual elemenst using indexing and slicing. </samp>      | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/04_Basic_Indexing_and_slicing.ipynb) |
-| **Boolean Indexing**        | <samp> Accessing elements of an array using another array as index. </samp>                         | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/05_Boolean_Indexing.ipynb) |
-| **Fancy Indexing**          | <samp> Accessing elements with desired order using Indexing with ndarrays of integers </samp>       | [🔗](https://github.com/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/06_Fancy_Indexing.ipynb) |
+| **Numpy Basics**            | <samp> An introduction of `ndarrys` and thier vectorized computation. </samp>                       | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/01_Numpy_Basics.ipynb) |
+| **Data Types**              | <samp> Understanding NumPy data types or `dtype`. </samp>                                           | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/02_Data_Types_for_ndarrays.ipynb) |
+| **Indexing and  Slicing**   | <samp> Selecting a subset of a data or individual elemenst using indexing and slicing. </samp>      | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/04_Basic_Indexing_and_slicing.ipynb) |
+| **Boolean Indexing**        | <samp> Accessing elements of an array using another array as index. </samp>                         | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/05_Boolean_Indexing.ipynb) |
+| **Fancy Indexing**          | <samp> Accessing elements with desired order using Indexing with ndarrays of integers. </samp>       | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/06_Fancy_Indexing.ipynb) |
+| **Transposing and Swapping** | <samp> Operations to flip the dimensions of an array. </samp>                                      | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/07_Transposing_and_Swapping_axes.ipynb) |
 
 
 ---
