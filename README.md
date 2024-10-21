@@ -37,5 +37,6 @@ Here, You will find all the necessary and important topic-wise notes on understa
 | 7.  | **Universal functions**      | <samp> Functions that performs elementwise operations on data in ndarrays. </samp>              | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/08_Universal_Functions.ipynb)                   |
 | 8.  | **Data Processing**          | <samp> Includes tasks such as concise array expressions that might require using loops. </samp> | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/09_Data_Processing.ipynb)                       |
 | 9.  | **Conditional logic**        | <samp> Express conditional logic as array operation. </samp>                                    | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/10_Conditional_Logic_As_Array_Operations.ipynb) |
+| 10. | **Statistical Methods**      | <samp> Mathematical functions which computes statistics about an entire array.</samp>           | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/11_Statistical_Methods.ipynb)                   |
 
 ---
