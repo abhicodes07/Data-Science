@@ -1,4 +1,4 @@
-<img src="assets/Header2.gif">
+<img src="assets/Header2.gif" width=1000 height=270>
 
 ---
 
