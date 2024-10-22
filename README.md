@@ -40,5 +40,6 @@ Here, You will find all the necessary and important topic-wise notes on understa
 | 10. | **Statistical Methods**      | <samp> Mathematical functions which computes statistics about an entire array.</samp>           | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/11_Statistical_Methods.ipynb)                   |
 | 11. | **Boolean Methods**          | <samp> Boolean values constitute of 1 (True) and 0 (False). </samp>                             | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/12_Boolean_Array_Methods.ipynb)                 |
 | 12. | **Sorting**                  | <samp> Sorting arrays using sort methods. </samp>                                               | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/13_Sorting.ipynb)                               |
+| 13. | **Unique and Set Logic**     | <samp> Some basic set operations for one-dimensional ndarrays. </samp>                          | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/14_Unique_&_Set_Logic.ipynb)                    |
 
 ---
