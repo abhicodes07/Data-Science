@@ -1,4 +1,4 @@
-<img src="assets/Header3.gif">
+<img src="assets/Header2.gif">
 
 ---
 
