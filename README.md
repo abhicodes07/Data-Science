@@ -15,7 +15,7 @@ Feel free to explore the repository and reach out in case of any issues.
   </a>
 </p>
 
-#### 💤 NumPy
+#### <img src="assets/file-type-numpy.svg" width=40 height=40> NumPy
 
 <samp>
 
