@@ -42,5 +42,6 @@ Here, You will find all the necessary and important topic-wise notes on understa
 | 12. | **Sorting**                  | <samp> Sorting arrays using sort methods. </samp>                                               | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/13_Sorting.ipynb)                               |
 | 13. | **Unique and Set Logic**     | <samp> Some basic set operations for one-dimensional ndarrays. </samp>                          | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/14_Unique_&_Set_Logic.ipynb)                    |
 | 14. | **File Input and Output**    | <samp> Save and load data to and from disk either in text or binary format. </samp>             | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/15_File_Input_&_Output.ipynb)                   |
+| 15. | **Linear Algebra**           | <samp> Useful Linear Algebric in-built functions in numpy namespace. </samp>                    | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/16_Linear_Algebra.ipynb)                        |
 
 ---
