@@ -7,7 +7,7 @@
 Feel free to explore the repository and reach out in case of any issues.
 </samp>
 
-## ☘️ Contents
+# ☘️ Contents
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,7 +15,7 @@ Feel free to explore the repository and reach out in case of any issues.
   </a>
 </p>
 
-#### <img src="assets/file-type-numpy.svg" width=40 height=40> NumPy
+## <img src="assets/file-type-numpy.svg" width=40 height=40> NumPy
 
 <samp>
 
