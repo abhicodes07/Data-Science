@@ -47,3 +47,13 @@ Here, You will find all the necessary and important topic-wise notes on understa
 ---
 
 ## <img src="assets/Pandas.png" width=50 height=50> Pandas
+
+<samp>
+    Pandas is a powerful and popular open-source library in Python used for data manipulation and analysis. It provides data structures and functions that make it easy to work with structured data, particularly for tasks like data cleaning, transformation, and exploration.
+    <br>
+</samp>
+
+|     | Topic | Description | Link |
+| --- | ----- | ----------- | ---- |
+
+---
