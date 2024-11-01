@@ -15,7 +15,7 @@ Feel free to explore the repository and reach out in case of any issues.
   </a>
 </p>
 
-## <img src="assets/file-type-numpy.svg" width=40 height=40> NumPy
+## <img src="assets/file-type-numpy.svg" width=50 height=50> NumPy
 
 <samp>
 
@@ -23,7 +23,6 @@ Feel free to explore the repository and reach out in case of any issues.
 Here, You will find all the necessary and important topic-wise notes on understanding Numpy from beginner to advance.
 <br>
 
-  </br>
 </samp>
 
 |     | Topic                        | Description                                                                                         | Link                                                                                                                                        |
@@ -46,3 +45,5 @@ Here, You will find all the necessary and important topic-wise notes on understa
 | 16. | **Random number generation** | <samp> generates whole arrays of smaple values from many knds of probability distributions. </samp> | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/02_Numpy_Basics/17_random_number_generation.ipynb)              |
 
 ---
+
+## <img src="assets/Pandas.png" width=50 height=50> Pandas
