@@ -18,11 +18,11 @@ Feel free to explore the repository and reach out in case of any issues.
 <!--toc:start-->
 
 - [☘️ Contents](#️-contents)
-  - [<img src="assets/file-type-numpy.svg" width=50 height=50> NumPy](#img-srcassetsfile-type-numpysvg-width50-height50-numpy)
-  - [<img src="assets/Pandas.png" width=50 height=50> Pandas](#img-srcassetspandaspng-width50-height50-pandas)
+  - [<img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy](#numpy)
+  - [<img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas](#pandas)
   <!--toc:end-->
 
-## <img src="assets/file-type-numpy.svg" width=50 height=50> NumPy
+## <img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy
 
 <samp>
 
@@ -53,7 +53,7 @@ Here, You will find all the necessary and important topic-wise notes on understa
 
 ---
 
-## <img src="assets/Pandas.png" width=50 height=50> Pandas
+## <img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas
 
 <samp>
     Pandas is a powerful and popular open-source library in Python used for data manipulation and analysis. It provides data structures and functions that make it easy to work with structured data, particularly for tasks like data cleaning, transformation, and exploration.
