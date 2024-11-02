@@ -15,6 +15,13 @@ Feel free to explore the repository and reach out in case of any issues.
   </a>
 </p>
 
+<!--toc:start-->
+
+- [☘️ Contents](#️-contents)
+  - [<img src="assets/file-type-numpy.svg" width=50 height=50> NumPy](#img-srcassetsfile-type-numpysvg-width50-height50-numpy)
+  - [<img src="assets/Pandas.png" width=50 height=50> Pandas](#img-srcassetspandaspng-width50-height50-pandas)
+  <!--toc:end-->
+
 ## <img src="assets/file-type-numpy.svg" width=50 height=50> NumPy
 
 <samp>
