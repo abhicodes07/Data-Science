@@ -18,8 +18,8 @@ Feel free to explore the repository and reach out in case of any issues.
 <!--toc:start-->
 
 - [☘️ Contents](#️-contents)
-  - [<img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy](#numpy)
-  - [<img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas](#pandas)
+  - [<img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy](#img-srcassetsfile-type-numpysvg-altnp-width50-height50-numpy)
+  - [<img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas](#img-srcassetspandaspng-altpd-width50-height50-pandas)
   <!--toc:end-->
 
 ## <img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy
@@ -58,9 +58,11 @@ Here, You will find all the necessary and important topic-wise notes on understa
 <samp>
     Pandas is a powerful and popular open-source library in Python used for data manipulation and analysis. It provides data structures and functions that make it easy to work with structured data, particularly for tasks like data cleaning, transformation, and exploration.
     <br>
+  <br>
 </samp>
 
-|     | Topic | Description | Link |
-| --- | ----- | ----------- | ---- |
+|     | Topic            | Description                                                   | Link                                                                                                         |
+| --- | ---------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1.  | **Introduction** | <samp>Introduction to Pandas and It's Data Structures.</samp> | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/03_Pandas/01_Introduction.ipynb) |
 
 ---
