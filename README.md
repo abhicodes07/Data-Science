@@ -18,8 +18,8 @@ Feel free to explore the repository and reach out in case of any issues.
 <!--toc:start-->
 
 - [☘️ Contents](#️-contents)
-  - [<img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy](#img-srcassetsfile-type-numpysvg-altnp-width50-height50-numpy)
-  - [<img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas](#img-srcassetspandaspng-altpd-width50-height50-pandas)
+  - [<img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy](#-numpy)
+  - [<img src="assets/Pandas.png" alt="pd" width=50 height=50> Pandas](#-pandas)
   <!--toc:end-->
 
 ## <img src="assets/file-type-numpy.svg" alt="np" width=50 height=50> NumPy
