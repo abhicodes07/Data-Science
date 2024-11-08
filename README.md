@@ -65,5 +65,7 @@ Here, You will find all the necessary and important topic-wise notes on understa
 | --- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 1.  | **Introduction** | <samp>Introduction to Pandas and It's Data Structures.</samp>                                                                                                              | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/03_Pandas/01_Introduction.ipynb) |
 | 2.  | **Series**       | <samp>A series is one-dimensional array like object containing an array of data (of any NumPy data-type) and an associated array of data labels, called it's index.</samp> | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/03_Pandas/02_Series.ipynb)       |
+| 3.  | **DataFrame**    | <samp>A DataFrame represents a tabular, spreadsheet-like data structure containing an ordered collection of columns.</samp>                                                | [🔗](https://nbviewer.ipython.org/github/abhicodes07/Data-Science/blob/main/03_Pandas/03_DataFrame.ipynb)    |
+|     |
 
 ---
