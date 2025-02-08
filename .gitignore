@@ -1,3 +1,4 @@
+*.gitignore
 *.bundle.*
 lib/
 node_modules/
@@ -5,7 +6,7 @@ node_modules/
 .ipynb_checkpoints
 .virtual_documents
 *.tsbuildinfo
-
+practice/
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
