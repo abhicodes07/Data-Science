@@ -1,4 +1,4 @@
-*.gitignore
+.venv
 *.bundle.*
 lib/
 node_modules/
@@ -20,6 +20,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.gitignore
 .Python
 build/
 develop-eggs/
